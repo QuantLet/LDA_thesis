@@ -1,13 +1,13 @@
-Name of Quantlet:  CascadeLDA
+﻿Name of Quantlet:  CascadeLDA
  
-Published in:      -
-  
+Published in: ''
+ 
 Description:       Multi-label Topic Modelling With Prior Knowledge using LDA-based models
  
-Keywords:          ‘Bayesian, Gibbs sampling, Latent Dirichlet Allocation, machine learning, 
-natural language processing, topic modelling’
+Keywords:          'Bayesian, Gibbs sampling, Latent Dirichlet Allocation, machine learning, 
+natural language processing, topic modelling'
 
-See also:          -
+See also: ''
 
 Author:            Ken Schröder
   
